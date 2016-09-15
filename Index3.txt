@@ -1,2 +1,6 @@
 This is for test git repositery fuctionalities and get familier with it.... 
+<<<<<<< HEAD
 ****************************************************
+=======
+***********************************************
+>>>>>>> master
